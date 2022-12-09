@@ -12,7 +12,7 @@ int number4;
 
 int main()
 {
-    MessageBox(0, "rogacz przej¹³ twoj komputer", "MessageBox caption", MB_OK);
+    MessageBox(0, "rogacz przejal twoj komputer", "MessageBox caption", MB_OK);
     while (true) {
 	    for (int i = 0; i < 1000; i++) {
             HWND hWnd = GetConsoleWindow();
