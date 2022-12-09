@@ -1,2 +1,2 @@
 # rogacz-virus
-for educational purposes
+wirus napisany w c++ który uczy cie programowania
